@@ -1,9 +1,7 @@
 // ignore_for_file: depend_on_referenced_packages
 
-import 'package:ct_external_shopping_monitor/app/shopping_monitor_routers.dart';
 import 'package:flutter/material.dart';
 import 'package:ct_micro_commons_dependencies/ct_micro_commons_dependencies.dart';
-import 'package:ct_micro_commons_ds/ct_micro_commons_ds.dart';
 
 class HeaderPage extends StatelessWidget {
   const HeaderPage({
